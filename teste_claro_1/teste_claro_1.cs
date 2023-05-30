@@ -68,7 +68,7 @@ namespace teste_claro_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("olá amigo2");
+			engine.GenerateInformation("olá amigo");
 	
 		}
 	}
